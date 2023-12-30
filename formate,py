@@ -1,0 +1,4 @@
+name='charry'
+age=18
+print("hi my name is %s" %name)
+print("hi my name is %s namd age is %d" %(name,age))  
