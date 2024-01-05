@@ -7,6 +7,5 @@ class Parent(Grand):
         self.c=c
         self.d=d
 class Child(Parent):
-    e=20
-    f=40
-obj=Child(11,22,32,43)
+         pass
+obj=Grand(11,22,33,44)
